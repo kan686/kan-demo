@@ -1,7 +1,7 @@
 # kan-demo
 This is my first git repository.
 <br>
-Author - Kanhaiya
+Author - Kanhaiya.
 
 # Teacher
 Shradha Khapra
